@@ -85,15 +85,6 @@ research, and real-world software development.
 
 ---
 
-## 📊 GitHub Stats
-
-![Ashwini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwini8686&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwini8686&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E2%98%85ashwini-623741391/)
 
