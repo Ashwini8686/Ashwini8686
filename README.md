@@ -7,7 +7,7 @@ in Machine Learning, Artificial Intelligence, and Software Engineering.
 
 My long-term goal is to build intelligent AI systems and work toward
 Agentic AI, while developing strong skills in problem solving,
-research, and real-world software development.
+research.
 
 ---
 
